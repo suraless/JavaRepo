@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is C6B6-6BAE
+
+ Directory of E:\Study\ProjectRepo
+
+06/17/2019  10:40 PM    <DIR>          .
+06/17/2019  10:40 PM    <DIR>          ..
+06/17/2019  10:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  195,347,656,704 bytes free
